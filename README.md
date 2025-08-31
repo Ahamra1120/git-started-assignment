@@ -1,4 +1,4 @@
-# 📘 Assignment: Simulating Assignment Submission
+# 📘 Scenario: Submitting an Assignment with Git
 
 ## 📝 Deskripsi
 Repository ini dibuat untuk memenuhi penugasan dengan topik **"Simulating Assignment Submission"**.  
